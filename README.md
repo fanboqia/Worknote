@@ -1,6 +1,6 @@
 # Work note
-**This repo meant to be recording knowledge that I learned through daily work**
---
+
+***This repo meant to be recording knowledge that I learned through daily work***
 
 * Software
   * OS
