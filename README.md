@@ -1,19 +1,28 @@
 # Work note
 **This repo meant to be recording knowledge that I learned through daily work**
+--
+
 * Software
-  * Android
-    * Android App
-    * Android Framework
-      * Android Camera
-      * Android Sensor
-    * Android HAL
-      * Sensorhub
-  * Linux
-    * Kernel
-    * Command
-  * C
-  * C++
-  * Java
+  * OS
+    * Android
+      * Android App
+      * Android Framework
+        * Android Camera
+        * Android Sensor
+      * Android HAL
+        * Sensorhub
+    * Linux
+      * Kernel
+      * Command
+    * RTOS
+      * FreeRTOS
+      * RT-Thread
+  * Languages
+    * C
+    * C++
+    * Java
+    * Matlab
+    * Python
   * Tools
     * Trace32
     * Git
@@ -23,14 +32,13 @@
     * Adb
     * Repo
     * SSCOM
-  * RTOS
-    * FreeRTOS
-    * RT-Thread
+
 * Hardware
   * ARM
   * SoC
   * Peripherals
     * UART
+
 * Algorithms
   * Image Processing
   * Machine Learning
